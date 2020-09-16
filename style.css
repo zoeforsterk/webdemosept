@@ -1,0 +1,166 @@
+.center-container {
+width:1000px;
+height: 2000px;
+background-color:peach;
+margin:auto;
+}
+
+body{
+font-family: Verdana, sans-serif;
+}
+
+.header{
+width:960px;
+height: 100px;
+background-color:white;
+
+}
+
+.nav-left{
+width:40%;
+float:left;
+text-align:center;
+padding: 20px;
+background-color:none;
+}
+
+
+.nav-right{
+width:40%;
+float:right;
+text-align:center;
+background-color:none;
+padding: 40px;
+}
+
+.nav-right p{
+float:right;
+
+    background-color: aqua;
+    padding: 3px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+
+.mission{
+	background-image: url("Mountains_resized.jpg");
+	width: 960px;
+	color:white;
+	text-align:center;
+	height: 400px;
+}
+
+
+.container{
+    padding:250px;
+    text-align:center;
+}
+
+.about {
+ text-align:center;
+ width: 960px;
+ color:black;
+ }
+ 
+ .about p {
+ color:black;
+ text-align:center;
+ 
+ }
+ 
+.team{
+width:960px;
+height:400px;
+text-align:center;
+background-color:aqua;
+padding-top:20px;
+padding-bottom:20px;
+}
+
+.saul{
+float:left;
+width:33%;
+}
+
+.carrie{
+float:left;
+width:33%;
+}
+
+.peter{
+float:left;
+width:33%;
+}
+
+.map{
+background-image:url("Map_Resized.jpg");
+height:400px;
+width:960px;
+}
+
+.footer{
+height:70px;
+color:white;
+background-color:darkgrey;
+width:960px;}
+
+
+.top-left{
+width:40%;
+float:left;
+margin:10px;
+}
+
+.top-right{
+width:50%;
+float: right;
+padding:10px;}
+
+
+.bottom-right {
+width:50%;
+float:right;
+font-size:10px;
+padding:5px;
+
+}
+
+.work {
+color:white;
+border-radius: 5px;
+
+}
+
+
+.fa-envelope {
+  color: white;
+}
+
+
+.fa-facebook {
+  color: white;
+  
+}
+
+.fa-twitter {
+  color: white;
+}
+
+p { 
+color:white;}
+
+h1 {
+font-size:22px;}
+
+h2 {
+font-size:14px;
+color:white;
+}
+
+h3 {
+font-size:12px;
+font-style:italic;
+color:white;}
+
+
